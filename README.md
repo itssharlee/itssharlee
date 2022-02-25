@@ -1,8 +1,8 @@
-✨ Hey, I’m Sharlee ✨
-=============
-- 🖌️ I'm a Graphic Designer,
-- 📏 An UX/UI Designer,
-- 🖥️ And a front-end web developer
+# ✨ Hey, I’m Sharlee ✨
+
+- 🖌️ I'm a graphic designer,
+- 📏 an ux/ui designer,
+- 🖥️ and a front-end web developer
 
 Check out my brand new portfolio at https://www.itssharl.ee
 
