@@ -1,4 +1,4 @@
-✨ Hi, I’m Sharlee ✨
+✨ Hey, I’m Sharlee ✨
 =============
 - 🖌️ I'm a Graphic Designer,
 - 📏 An UX/UI Designer,
