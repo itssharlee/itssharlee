@@ -1,6 +1,10 @@
-- ✨ Hi, I’m @itssharlee ✨
-- I have a master's degree in graphic design
-- I also have an interest in coding what I design
+✨ Hi, I’m Sharlee ✨
+=============
+- 🖌️ I'm a Graphic Designer,
+- 📏 An UX/UI Designer,
+- 🖥️ And a front-end web developer
+
+Check out my brand new portfolio at https://www.itssharl.ee
 
 <!---
 itssharlee/itssharlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
